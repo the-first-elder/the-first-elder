@@ -14,7 +14,9 @@ Solidity, Rust, Cairo, TypeScript, React, Next.js, Hardhat, Foundry
 
 ## Find me
 X: https://x.com/The_First_Elder
+
 Abuja, Nigeria (UTC+1)
+
 Contact: emmanuelmayowa95@gmail.com
 
 <!--
